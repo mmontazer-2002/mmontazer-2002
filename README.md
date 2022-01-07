@@ -2,7 +2,7 @@
 <a href="https://discord.gg/XvUeDk9ADa">
   <img align="left" alt="Mahdie's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
-<a href="www.linkedin.com/in/mahdie-montazeralzohoor">
+<a href="https://www.linkedin.com/in/mahdie-montazeralzohoor/">
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://open.spotify.com/user/g4h4gimevbr2mcsmx5owlquab?si=06b3dfb162334400">
