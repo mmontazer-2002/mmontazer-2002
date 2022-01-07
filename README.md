@@ -18,7 +18,7 @@ Hi, I'm [Mahdie Montazeralzohoor](https://github.com/mmontazer-2002), a passiona
 I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
   
-- 💼 any freelance work? do reach, [email](mmontazer1831@gmail.com) :)
+- 💼 any freelance work? do reach, [email](mailto:mmontazer1831@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
 
 **languages and tools:**  
